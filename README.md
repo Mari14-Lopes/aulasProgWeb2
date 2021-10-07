@@ -1,2 +1,2 @@
-# https://Mari14-Lopes.github.i0/prepararrepositorio
+# https://Mari14-Lopes.github.io/prepararrepositorio
 Preparação do repositório.
