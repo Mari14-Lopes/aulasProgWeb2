@@ -1,0 +1,2 @@
+# prepararrepositorio
+Preparação do repositório.
