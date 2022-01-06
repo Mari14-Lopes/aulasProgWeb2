@@ -1,0 +1,26 @@
+<html>
+
+	<head>
+		<title> Sumario </title>
+		<meta charset="utf-8" />
+	</head>
+	
+	<body>
+	
+		<ol></ol>
+		
+		<h1>GitHub</h1>
+	  
+		<h2>O que é ?</h2>
+		GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.
+		
+		<h2>Para que serve ?</h2>
+		Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo.
+		
+		<h2>Curiosidades</h2>
+		Atualmente, ele acomoda mais de 25 milhões de usuários.
+		
+	    <script src="atv2.js"> </script> 	
+	  
+  </body>  
+</html>	
